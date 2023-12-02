@@ -18,3 +18,6 @@
 * GIT/GITHUB
 * Adobe Photoshop
 * Figma / Pixso / Marsy / Zeplin
+### Language
+* Russia: native
+* Belorussian: native
